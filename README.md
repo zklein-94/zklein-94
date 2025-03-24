@@ -23,5 +23,5 @@ My passion for technology and criminal justice has led me to cybersecurity. I am
 
 ## Certificates
 
-<img src="https://drive.google.com/drive/folders/153A1YTspoyYlbkK02gZU_hXj2ujOZj9i?dmr=1&ec=wgc-drive-globalnav-goto" />
+<img src="https://drive.google.com/drive/folders/153A1YTspoyYlbkK02gZU_hXj2ujOZj9i?dmr=1&ec=wgc-drive-globalnav-goto"/>
 
