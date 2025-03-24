@@ -6,7 +6,7 @@
 ##Introduction
 [Brief Intro]
 
-I am currently a Helpdesk Administrator with a degree in Criminal Justice. I am working on acheiving the Security Plus certificate.
+I am currently a Helpdesk Administrator with a degree in Criminal Justice. I have recently obtained the CompTIA Security+ certificaiton.
 
 ##Objective
 [Provide Objective]
